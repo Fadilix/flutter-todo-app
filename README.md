@@ -7,10 +7,10 @@ Welcome to the Flutter ToDo App! This application is designed to assist users in
 <img src="https://github.com/Fadilix/flutter-todo-app/assets/121851593/3f646cce-e075-4fdf-9095-a45d0a563c69" width=250 >
 
 # Features
-Task Management: Keep track of your tasks and to-dos in one convenient place.
-User-Friendly Interface: Enjoy a clean and intuitive user interface for a seamless experience.
-Task Completion Tracking: Monitor your progress by marking tasks as done.
-Add and Delete Tasks: Easily add new tasks and remove completed or unnecessary ones.
+- Task Management: Keep track of your tasks and to-dos in one convenient place.
+- User-Friendly Interface: Enjoy a clean and intuitive user interface for a seamless experience.
+- Task Completion Tracking: Monitor your progress by marking tasks as done.
+- Add and Delete Tasks: Easily add new tasks and remove completed or unnecessary ones.
 
 # Getting Started
 - ### Clone the repository
