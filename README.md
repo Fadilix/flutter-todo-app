@@ -1,4 +1,4 @@
-# Flutter ToDo app
+# Flutter ToDo App
 Welcome to the Flutter ToDo App! This application is designed to assist users in efficiently managing their tasks and to-dos.
 
 # Screenshots
