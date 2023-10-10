@@ -1,16 +1,33 @@
-# task_app
+# Flutter ToDo app
+Welcome to the Flutter ToDo App! This application is designed to assist users in efficiently managing their tasks and to-dos.
 
-A new Flutter project.
+# Screenshots
+<img src ="https://github.com/Fadilix/flutter-todo-app/assets/121851593/d31e47bb-4d97-40a9-87f7-454aa2497f51" width="250" >
+<img src="https://github.com/Fadilix/flutter-todo-app/assets/121851593/4509921a-07de-4298-98e7-58840d6fac21" width=250 >
+<img src="https://github.com/Fadilix/flutter-todo-app/assets/121851593/3f646cce-e075-4fdf-9095-a45d0a563c69" width=250 >
 
-## Getting Started
+# Features
+Task Management: Keep track of your tasks and to-dos in one convenient place.
+User-Friendly Interface: Enjoy a clean and intuitive user interface for a seamless experience.
+Task Completion Tracking: Monitor your progress by marking tasks as done.
+Add and Delete Tasks: Easily add new tasks and remove completed or unnecessary ones.
 
-This project is a starting point for a Flutter application.
+# Getting Started
+- ### Clone the repository
+```
+git clone https://github.com/Fadilix/flutter-todo-app.git
+```
+- ### Navigate to the project directory
+```
+cd flutter-todo-app
+```
 
-A few resources to get you started if this is your first Flutter project:
+- ### Install dependencies
+```
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ### Run the app
+```
+ctrl + F5 or flutter run
+```
